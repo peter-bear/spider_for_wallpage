@@ -32,7 +32,7 @@ def main():
     if not os.path.isdir('source'):
         os.mkdir('source')
 
-    parentUrl = "https://wallhaven.cc/search?q=girl&categories=010&purity=100&atleast=3840x2400&sorting=random&order=desc&colors=ea4c88&seed=UNWUmH&page=2"
+    parentUrl = "https://wallhaven.cc/search?q=girl&categories=010&purity=100&atleast=3840x2400&sorting=random&order=desc&colors=ea4c88"
 
     # parentUrl = "https://wallhaven.cc/hot"
 
