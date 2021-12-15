@@ -1,0 +1,2 @@
+# spider_for_wallpage
+利用request请求对网页壁纸进行爬取，然后存入本地
